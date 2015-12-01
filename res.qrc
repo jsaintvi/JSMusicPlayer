@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>open file.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>sound.png</file>
+        <file>stop.png</file>
+        <file>delete.png</file>
+        <file>settings.png</file>
+    </qresource>
+</RCC>
